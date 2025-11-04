@@ -1,0 +1,1001 @@
+,Jenis_Kelamin,Tinggi_Badan,Berat_Badan,Label
+1,Laki - Laki,174,72,2
+2,Laki - Laki,164,90,4
+3,Perempuan,168,73,3
+4,Laki - Laki,168,85,3
+5,Laki - Laki,184,69,2
+6,Perempuan,166,61,2
+7,Laki - Laki,184,92,3
+8,Laki - Laki,143,59,3
+9,Laki - Laki,183,75,2
+10,Laki - Laki,183,82,2
+11,Laki - Laki,179,83,3
+12,Perempuan,150,53,2
+13,Laki - Laki,180,86,3
+14,Laki - Laki,169,55,2
+15,Laki - Laki,145,82,4
+16,Laki - Laki,183,78,2
+17,Laki - Laki,184,82,2
+18,Perempuan,151,52,2
+19,Laki - Laki,172,79,3
+20,Perempuan,184,86,3
+21,Perempuan,182,73,2
+22,Laki - Laki,178,58,1
+23,Laki - Laki,144,84,4
+24,Laki - Laki,177,72,2
+25,Laki - Laki,168,45,1
+26,Perempuan,180,57,1
+27,Laki - Laki,173,62,2
+28,Laki - Laki,170,93,4
+29,Laki - Laki,176,90,3
+30,Laki - Laki,168,90,4
+31,Laki - Laki,170,73,3
+32,Laki - Laki,164,84,4
+33,Perempuan,154,53,2
+34,Perempuan,176,70,2
+35,Laki - Laki,162,77,3
+36,Laki - Laki,168,54,2
+37,Laki - Laki,173,73,2
+38,Perempuan,149,95,4
+39,Laki - Laki,151,78,4
+40,Perempuan,167,84,4
+41,Laki - Laki,175,33,1
+42,Laki - Laki,177,93,3
+43,Laki - Laki,154,67,3
+44,Laki - Laki,176,58,2
+45,Perempuan,168,67,2
+46,Perempuan,161,48,1
+47,Laki - Laki,164,86,4
+48,Laki - Laki,178,65,2
+49,Perempuan,173,59,2
+50,Perempuan,171,67,2
+51,Perempuan,172,87,3
+52,Perempuan,179,72,2
+53,Laki - Laki,169,49,1
+54,Perempuan,171,77,3
+55,Laki - Laki,181,56,1
+56,Perempuan,167,38,1
+57,Perempuan,176,92,3
+58,Perempuan,165,77,3
+59,Perempuan,166,69,3
+60,Perempuan,169,65,2
+61,Laki - Laki,175,91,3
+62,Laki - Laki,182,116,4
+63,Perempuan,171,77,3
+64,Perempuan,155,55,2
+65,Laki - Laki,176,68,2
+66,Perempuan,195,76,2
+67,Perempuan,171,35,1
+68,Laki - Laki,153,75,4
+69,Perempuan,172,77,3
+70,Perempuan,170,90,4
+71,Laki - Laki,169,88,4
+72,Laki - Laki,179,72,2
+73,Laki - Laki,184,93,3
+74,Perempuan,177,101,4
+75,Laki - Laki,169,70,2
+76,Laki - Laki,181,76,2
+77,Laki - Laki,155,43,1
+78,Laki - Laki,163,48,1
+79,Laki - Laki,164,57,2
+80,Laki - Laki,170,63,2
+81,Perempuan,175,54,1
+82,Perempuan,168,69,2
+83,Laki - Laki,161,64,2
+84,Laki - Laki,180,86,3
+85,Laki - Laki,168,63,2
+86,Perempuan,171,36,1
+87,Perempuan,176,72,2
+88,Perempuan,170,70,2
+89,Perempuan,170,57,2
+90,Perempuan,180,71,2
+91,Perempuan,172,54,1
+92,Perempuan,179,75,2
+93,Perempuan,175,109,4
+94,Perempuan,190,43,1
+95,Laki - Laki,174,62,2
+96,Laki - Laki,176,60,2
+97,Laki - Laki,181,64,2
+98,Laki - Laki,171,85,3
+99,Perempuan,164,78,3
+100,Perempuan,165,83,4
+101,Laki - Laki,165,70,3
+102,Perempuan,160,50,2
+103,Laki - Laki,173,53,1
+104,Perempuan,164,81,4
+105,Laki - Laki,172,73,2
+106,Perempuan,168,89,4
+107,Perempuan,170,74,3
+108,Laki - Laki,176,52,1
+109,Perempuan,165,62,2
+110,Laki - Laki,176,78,3
+111,Laki - Laki,186,81,2
+112,Laki - Laki,173,83,3
+113,Laki - Laki,162,54,2
+114,Perempuan,164,52,2
+115,Perempuan,168,67,2
+116,Perempuan,164,92,4
+117,Laki - Laki,160,60,2
+118,Perempuan,172,77,3
+119,Laki - Laki,168,77,3
+120,Perempuan,172,81,3
+121,Perempuan,182,95,3
+122,Perempuan,168,93,4
+123,Laki - Laki,158,61,2
+124,Perempuan,166,39,1
+125,Perempuan,178,60,2
+126,Laki - Laki,177,71,2
+127,Perempuan,175,65,2
+128,Laki - Laki,164,100,4
+129,Perempuan,178,70,2
+130,Laki - Laki,180,80,2
+131,Laki - Laki,163,73,3
+132,Perempuan,170,65,2
+133,Laki - Laki,190,41,1
+134,Laki - Laki,163,69,3
+135,Laki - Laki,153,119,4
+136,Laki - Laki,184,51,1
+137,Laki - Laki,181,43,1
+138,Laki - Laki,165,99,4
+139,Perempuan,169,81,3
+140,Laki - Laki,158,73,3
+141,Laki - Laki,171,90,4
+142,Perempuan,182,58,1
+143,Perempuan,165,68,3
+144,Perempuan,179,84,3
+145,Perempuan,175,102,4
+146,Perempuan,176,52,1
+147,Perempuan,165,89,4
+148,Perempuan,166,76,3
+149,Laki - Laki,152,72,4
+150,Laki - Laki,164,70,3
+151,Perempuan,182,49,1
+152,Laki - Laki,161,84,4
+153,Laki - Laki,162,58,2
+154,Laki - Laki,176,54,1
+155,Perempuan,174,83,3
+156,Perempuan,177,82,3
+157,Laki - Laki,158,71,3
+158,Perempuan,196,86,2
+159,Laki - Laki,158,91,4
+160,Laki - Laki,172,90,4
+161,Laki - Laki,168,62,2
+162,Laki - Laki,158,85,4
+163,Perempuan,166,73,3
+164,Perempuan,170,96,4
+165,Perempuan,164,68,3
+166,Laki - Laki,179,65,2
+167,Perempuan,168,61,2
+168,Laki - Laki,157,73,3
+169,Perempuan,156,77,4
+170,Laki - Laki,176,77,2
+171,Laki - Laki,155,75,4
+172,Laki - Laki,173,80,3
+173,Perempuan,174,67,2
+174,Perempuan,160,57,2
+175,Perempuan,179,56,1
+176,Perempuan,153,85,4
+177,Laki - Laki,173,77,3
+178,Perempuan,170,42,1
+179,Perempuan,169,86,4
+180,Laki - Laki,158,98,4
+181,Laki - Laki,161,59,2
+182,Laki - Laki,186,75,2
+183,Perempuan,182,63,2
+184,Laki - Laki,177,79,3
+185,Laki - Laki,179,53,1
+186,Laki - Laki,178,69,2
+187,Perempuan,167,85,4
+188,Laki - Laki,170,89,4
+189,Perempuan,155,76,4
+190,Perempuan,169,65,2
+191,Laki - Laki,182,46,1
+192,Laki - Laki,163,59,2
+193,Perempuan,180,63,2
+194,Laki - Laki,171,60,2
+195,Laki - Laki,156,71,3
+196,Perempuan,159,65,3
+197,Perempuan,179,73,2
+198,Laki - Laki,176,88,3
+199,Perempuan,171,64,2
+200,Laki - Laki,167,49,1
+201,Laki - Laki,172,59,2
+202,Laki - Laki,179,79,2
+203,Perempuan,185,80,2
+204,Laki - Laki,185,76,2
+205,Laki - Laki,174,90,3
+206,Laki - Laki,168,67,2
+207,Perempuan,171,101,4
+208,Perempuan,175,82,3
+209,Perempuan,175,32,1
+210,Perempuan,183,97,3
+211,Perempuan,191,58,1
+212,Laki - Laki,168,54,2
+213,Perempuan,192,78,2
+214,Perempuan,182,44,1
+215,Perempuan,169,60,2
+216,Laki - Laki,185,93,3
+217,Perempuan,187,78,2
+218,Perempuan,165,82,4
+219,Laki - Laki,187,60,1
+220,Perempuan,181,47,1
+221,Laki - Laki,194,81,2
+222,Laki - Laki,166,84,4
+223,Laki - Laki,166,83,4
+224,Laki - Laki,150,73,4
+225,Laki - Laki,176,55,1
+226,Perempuan,174,107,4
+227,Laki - Laki,164,77,3
+228,Laki - Laki,169,67,2
+229,Perempuan,157,67,3
+230,Laki - Laki,182,72,2
+231,Perempuan,165,86,4
+232,Perempuan,201,73,1
+233,Perempuan,168,83,3
+234,Laki - Laki,162,72,3
+235,Laki - Laki,166,68,2
+236,Laki - Laki,156,80,4
+237,Perempuan,175,79,3
+238,Laki - Laki,166,67,2
+239,Laki - Laki,181,59,1
+240,Laki - Laki,167,75,3
+241,Perempuan,184,71,2
+242,Perempuan,178,62,2
+243,Laki - Laki,170,57,2
+244,Laki - Laki,186,76,2
+245,Laki - Laki,180,78,2
+246,Laki - Laki,199,65,1
+247,Perempuan,166,61,2
+248,Perempuan,171,58,2
+249,Perempuan,186,76,2
+250,Perempuan,155,58,2
+251,Laki - Laki,183,104,4
+252,Laki - Laki,174,64,2
+253,Laki - Laki,161,34,1
+254,Perempuan,156,70,3
+255,Laki - Laki,163,69,3
+256,Perempuan,147,87,4
+257,Perempuan,165,74,3
+258,Laki - Laki,176,57,2
+259,Laki - Laki,165,66,2
+260,Laki - Laki,184,75,2
+261,Perempuan,187,38,1
+262,Laki - Laki,183,90,3
+263,Perempuan,172,58,2
+264,Laki - Laki,147,91,4
+265,Perempuan,163,76,3
+266,Perempuan,169,79,3
+267,Laki - Laki,161,87,4
+268,Perempuan,169,79,3
+269,Perempuan,186,80,2
+270,Laki - Laki,154,68,3
+271,Perempuan,188,76,2
+272,Laki - Laki,179,61,2
+273,Perempuan,173,65,2
+274,Laki - Laki,163,99,4
+275,Laki - Laki,161,58,2
+276,Perempuan,154,72,4
+277,Perempuan,187,72,2
+278,Perempuan,185,65,2
+279,Perempuan,156,78,4
+280,Perempuan,164,79,3
+281,Laki - Laki,174,56,1
+282,Perempuan,167,72,3
+283,Laki - Laki,151,54,2
+284,Laki - Laki,163,82,4
+285,Perempuan,190,73,2
+286,Laki - Laki,164,71,3
+287,Laki - Laki,168,80,3
+288,Laki - Laki,159,66,3
+289,Laki - Laki,176,84,3
+290,Perempuan,171,56,2
+291,Laki - Laki,163,91,4
+292,Perempuan,157,62,3
+293,Perempuan,184,45,1
+294,Laki - Laki,154,65,3
+295,Perempuan,175,63,2
+296,Perempuan,148,65,3
+297,Perempuan,177,73,2
+298,Laki - Laki,180,86,3
+299,Perempuan,181,67,2
+300,Perempuan,168,60,2
+301,Perempuan,186,53,1
+302,Laki - Laki,193,63,1
+303,Perempuan,167,42,1
+304,Laki - Laki,165,59,2
+305,Laki - Laki,171,89,4
+306,Laki - Laki,165,58,2
+307,Laki - Laki,164,79,3
+308,Laki - Laki,165,52,2
+309,Laki - Laki,187,97,3
+310,Perempuan,178,98,4
+311,Laki - Laki,165,79,3
+312,Perempuan,145,100,4
+313,Perempuan,155,75,4
+314,Laki - Laki,175,82,3
+315,Perempuan,149,89,4
+316,Perempuan,173,73,2
+317,Perempuan,159,47,1
+318,Perempuan,171,82,3
+319,Laki - Laki,171,63,2
+320,Perempuan,171,64,2
+321,Laki - Laki,166,74,3
+322,Perempuan,166,78,3
+323,Perempuan,163,72,3
+324,Laki - Laki,175,80,3
+325,Perempuan,178,59,2
+326,Perempuan,158,69,3
+327,Perempuan,169,83,3
+328,Laki - Laki,172,97,4
+329,Perempuan,172,102,4
+330,Laki - Laki,172,76,3
+331,Perempuan,166,83,3
+332,Laki - Laki,173,100,4
+333,Laki - Laki,176,60,2
+334,Perempuan,171,79,3
+335,Perempuan,175,82,3
+336,Laki - Laki,180,92,3
+337,Laki - Laki,151,53,2
+338,Perempuan,179,56,1
+339,Laki - Laki,173,70,2
+340,Perempuan,159,76,3
+341,Perempuan,178,87,3
+342,Perempuan,166,78,3
+343,Perempuan,167,68,2
+344,Laki - Laki,165,76,3
+345,Perempuan,173,75,2
+346,Laki - Laki,162,96,4
+347,Perempuan,179,72,2
+348,Laki - Laki,169,64,2
+349,Perempuan,166,77,3
+350,Laki - Laki,178,73,2
+351,Laki - Laki,167,46,1
+352,Perempuan,179,70,2
+353,Perempuan,180,68,2
+354,Perempuan,157,62,3
+355,Perempuan,181,86,3
+356,Laki - Laki,155,58,2
+357,Perempuan,182,77,2
+358,Laki - Laki,190,68,2
+359,Laki - Laki,179,72,2
+360,Perempuan,148,76,4
+361,Laki - Laki,181,50,1
+362,Laki - Laki,192,73,2
+363,Laki - Laki,167,104,4
+364,Laki - Laki,170,47,1
+365,Perempuan,158,69,3
+366,Perempuan,173,87,3
+367,Perempuan,183,75,2
+368,Perempuan,177,80,3
+369,Laki - Laki,201,34,1
+370,Laki - Laki,170,79,3
+371,Perempuan,154,59,2
+372,Perempuan,172,75,3
+373,Perempuan,146,70,4
+374,Laki - Laki,165,104,4
+375,Perempuan,186,78,2
+376,Perempuan,173,68,2
+377,Perempuan,172,47,1
+378,Laki - Laki,188,72,2
+379,Laki - Laki,167,82,3
+380,Laki - Laki,183,69,2
+381,Laki - Laki,171,62,2
+382,Laki - Laki,174,61,2
+383,Laki - Laki,158,78,4
+384,Laki - Laki,165,81,3
+385,Laki - Laki,156,90,4
+386,Perempuan,169,55,2
+387,Perempuan,174,78,3
+388,Laki - Laki,159,68,3
+389,Laki - Laki,190,69,2
+390,Perempuan,173,76,3
+391,Laki - Laki,171,76,3
+392,Laki - Laki,178,78,2
+393,Laki - Laki,162,54,2
+394,Perempuan,172,59,2
+395,Perempuan,163,92,4
+396,Perempuan,186,67,2
+397,Perempuan,159,75,3
+398,Perempuan,171,86,3
+399,Laki - Laki,173,77,3
+400,Perempuan,174,78,3
+401,Laki - Laki,164,83,4
+402,Laki - Laki,161,38,1
+403,Perempuan,164,63,2
+404,Perempuan,175,77,3
+405,Laki - Laki,169,91,4
+406,Laki - Laki,178,71,2
+407,Laki - Laki,175,57,2
+408,Perempuan,147,58,3
+409,Perempuan,172,83,3
+410,Perempuan,193,67,1
+411,Perempuan,183,70,2
+412,Perempuan,174,79,3
+413,Laki - Laki,159,26,1
+414,Perempuan,175,100,4
+415,Laki - Laki,177,59,2
+416,Laki - Laki,167,74,3
+417,Laki - Laki,173,44,1
+418,Perempuan,185,64,2
+419,Perempuan,161,89,4
+420,Perempuan,159,41,1
+421,Laki - Laki,177,87,3
+422,Laki - Laki,175,66,2
+423,Laki - Laki,180,77,2
+424,Laki - Laki,176,80,3
+425,Laki - Laki,164,77,3
+426,Laki - Laki,174,57,2
+427,Perempuan,159,65,3
+428,Perempuan,167,48,1
+429,Perempuan,175,77,3
+430,Perempuan,166,96,4
+431,Laki - Laki,195,43,1
+432,Laki - Laki,151,59,3
+433,Perempuan,165,67,2
+434,Laki - Laki,161,73,3
+435,Perempuan,163,83,4
+436,Perempuan,164,68,3
+437,Perempuan,157,65,3
+438,Laki - Laki,178,87,3
+439,Perempuan,165,80,3
+440,Perempuan,172,78,3
+441,Perempuan,166,72,3
+442,Laki - Laki,163,85,4
+443,Laki - Laki,187,60,1
+444,Perempuan,179,58,1
+445,Laki - Laki,151,81,4
+446,Laki - Laki,150,46,2
+447,Laki - Laki,180,71,2
+448,Laki - Laki,165,65,2
+449,Laki - Laki,154,49,2
+450,Laki - Laki,180,56,1
+451,Laki - Laki,172,68,2
+452,Laki - Laki,173,86,3
+453,Laki - Laki,178,60,2
+454,Laki - Laki,157,88,4
+455,Perempuan,154,71,4
+456,Perempuan,186,90,3
+457,Laki - Laki,156,61,3
+458,Perempuan,158,69,3
+459,Perempuan,160,76,3
+460,Laki - Laki,191,67,1
+461,Laki - Laki,175,84,3
+462,Laki - Laki,180,37,1
+463,Perempuan,172,106,4
+464,Perempuan,164,83,4
+465,Laki - Laki,176,67,2
+466,Laki - Laki,154,62,3
+467,Laki - Laki,159,57,2
+468,Perempuan,177,80,3
+469,Perempuan,156,85,4
+470,Perempuan,168,68,2
+471,Perempuan,169,87,4
+472,Laki - Laki,165,56,2
+473,Laki - Laki,150,54,2
+474,Laki - Laki,164,97,4
+475,Laki - Laki,162,79,4
+476,Perempuan,172,91,4
+477,Perempuan,171,57,2
+478,Laki - Laki,174,56,2
+479,Laki - Laki,163,65,2
+480,Perempuan,175,58,2
+481,Laki - Laki,154,81,4
+482,Perempuan,152,59,3
+483,Laki - Laki,147,52,2
+484,Laki - Laki,165,72,3
+485,Laki - Laki,162,51,2
+486,Laki - Laki,178,43,1
+487,Laki - Laki,164,72,3
+488,Laki - Laki,173,44,1
+489,Laki - Laki,178,82,3
+490,Perempuan,163,49,1
+491,Perempuan,173,36,1
+492,Perempuan,180,66,2
+493,Perempuan,158,72,3
+494,Perempuan,170,77,3
+495,Laki - Laki,163,73,3
+496,Laki - Laki,158,54,2
+497,Perempuan,155,81,4
+498,Laki - Laki,158,84,4
+499,Perempuan,171,52,1
+500,Perempuan,154,67,3
+501,Laki - Laki,164,66,2
+502,Laki - Laki,178,73,2
+503,Laki - Laki,174,67,2
+504,Perempuan,165,69,3
+505,Laki - Laki,187,80,2
+506,Perempuan,189,53,1
+507,Perempuan,170,81,3
+508,Perempuan,145,87,4
+509,Laki - Laki,179,95,3
+510,Laki - Laki,147,38,1
+511,Perempuan,185,67,2
+512,Laki - Laki,181,41,1
+513,Laki - Laki,188,33,1
+514,Laki - Laki,173,72,2
+515,Perempuan,166,64,2
+516,Perempuan,165,74,3
+517,Laki - Laki,165,77,3
+518,Perempuan,180,89,3
+519,Laki - Laki,177,71,2
+520,Laki - Laki,171,114,4
+521,Laki - Laki,163,75,3
+522,Laki - Laki,196,98,3
+523,Perempuan,179,35,1
+524,Perempuan,154,90,4
+525,Perempuan,165,67,2
+526,Laki - Laki,179,41,1
+527,Laki - Laki,162,76,3
+528,Laki - Laki,174,65,2
+529,Perempuan,180,79,2
+530,Laki - Laki,136,85,4
+531,Perempuan,169,48,1
+532,Perempuan,169,85,3
+533,Perempuan,166,70,3
+534,Perempuan,173,90,4
+535,Perempuan,177,67,2
+536,Perempuan,171,63,2
+537,Laki - Laki,166,70,3
+538,Laki - Laki,176,72,2
+539,Perempuan,170,60,2
+540,Perempuan,168,63,2
+541,Laki - Laki,157,52,2
+542,Perempuan,154,63,3
+543,Perempuan,157,80,4
+544,Laki - Laki,173,68,2
+545,Perempuan,169,85,3
+546,Perempuan,155,67,3
+547,Perempuan,176,49,1
+548,Laki - Laki,184,79,2
+549,Laki - Laki,164,60,2
+550,Laki - Laki,153,66,3
+551,Perempuan,163,89,4
+552,Perempuan,179,53,1
+553,Laki - Laki,175,72,2
+554,Perempuan,161,69,3
+555,Perempuan,185,81,2
+556,Perempuan,183,83,2
+557,Perempuan,163,74,3
+558,Perempuan,163,65,2
+559,Laki - Laki,164,77,3
+560,Perempuan,165,90,4
+561,Laki - Laki,180,70,2
+562,Perempuan,174,66,2
+563,Laki - Laki,179,76,2
+564,Perempuan,177,71,2
+565,Laki - Laki,187,50,1
+566,Perempuan,159,74,3
+567,Laki - Laki,174,50,1
+568,Perempuan,148,76,4
+569,Laki - Laki,157,58,2
+570,Perempuan,169,71,2
+571,Laki - Laki,174,76,3
+572,Laki - Laki,169,107,4
+573,Perempuan,164,81,4
+574,Perempuan,166,90,4
+575,Laki - Laki,184,98,3
+576,Perempuan,166,77,3
+577,Laki - Laki,187,74,2
+578,Laki - Laki,178,54,1
+579,Laki - Laki,175,68,2
+580,Perempuan,158,59,2
+581,Laki - Laki,179,64,2
+582,Laki - Laki,165,98,4
+583,Perempuan,158,72,3
+584,Perempuan,175,57,2
+585,Perempuan,156,91,4
+586,Perempuan,162,84,4
+587,Laki - Laki,170,85,3
+588,Laki - Laki,192,40,1
+589,Laki - Laki,163,99,4
+590,Laki - Laki,165,62,2
+591,Perempuan,177,82,3
+592,Laki - Laki,158,108,4
+593,Laki - Laki,174,102,4
+594,Perempuan,182,55,1
+595,Laki - Laki,167,48,1
+596,Laki - Laki,180,91,3
+597,Laki - Laki,173,72,2
+598,Laki - Laki,163,62,2
+599,Laki - Laki,168,79,3
+600,Laki - Laki,166,68,2
+601,Perempuan,169,81,3
+602,Perempuan,172,71,2
+603,Laki - Laki,176,81,3
+604,Laki - Laki,175,57,1
+605,Perempuan,146,91,4
+606,Laki - Laki,169,80,3
+607,Laki - Laki,155,80,4
+608,Laki - Laki,167,53,2
+609,Perempuan,169,95,4
+610,Laki - Laki,180,70,2
+611,Perempuan,170,81,3
+612,Laki - Laki,173,65,2
+613,Perempuan,178,74,2
+614,Perempuan,182,74,2
+615,Laki - Laki,169,28,1
+616,Perempuan,171,79,3
+617,Laki - Laki,170,99,4
+618,Perempuan,165,78,3
+619,Laki - Laki,162,56,2
+620,Laki - Laki,147,80,4
+621,Perempuan,159,86,4
+622,Laki - Laki,152,78,4
+623,Laki - Laki,183,69,2
+624,Perempuan,172,66,2
+625,Laki - Laki,169,66,2
+626,Laki - Laki,163,80,4
+627,Perempuan,170,49,1
+628,Perempuan,162,64,2
+629,Laki - Laki,172,94,4
+630,Laki - Laki,172,95,4
+631,Perempuan,161,48,1
+632,Perempuan,161,53,2
+633,Laki - Laki,180,66,2
+634,Perempuan,169,83,3
+635,Laki - Laki,162,43,1
+636,Laki - Laki,166,69,3
+637,Laki - Laki,160,63,2
+638,Laki - Laki,169,90,4
+639,Laki - Laki,178,45,1
+640,Perempuan,170,71,2
+641,Perempuan,194,64,1
+642,Perempuan,174,92,4
+643,Perempuan,172,79,3
+644,Laki - Laki,161,61,2
+645,Laki - Laki,168,83,3
+646,Laki - Laki,162,64,2
+647,Laki - Laki,148,85,4
+648,Perempuan,180,66,2
+649,Laki - Laki,165,86,4
+650,Laki - Laki,162,77,3
+651,Perempuan,172,119,4
+652,Perempuan,175,69,2
+653,Perempuan,167,76,3
+654,Perempuan,170,63,2
+655,Laki - Laki,177,70,2
+656,Laki - Laki,166,29,1
+657,Perempuan,173,77,3
+658,Laki - Laki,153,90,4
+659,Laki - Laki,158,76,4
+660,Laki - Laki,176,50,1
+661,Perempuan,157,58,2
+662,Laki - Laki,172,34,1
+663,Perempuan,169,85,3
+664,Laki - Laki,166,55,2
+665,Laki - Laki,162,70,3
+666,Laki - Laki,179,68,2
+667,Perempuan,187,92,3
+668,Laki - Laki,173,71,2
+669,Perempuan,173,82,3
+670,Perempuan,163,78,3
+671,Perempuan,158,90,4
+672,Laki - Laki,170,66,2
+673,Laki - Laki,160,98,4
+674,Laki - Laki,152,40,1
+675,Laki - Laki,178,83,3
+676,Perempuan,179,57,1
+677,Perempuan,161,63,2
+678,Perempuan,172,79,3
+679,Laki - Laki,180,78,2
+680,Perempuan,172,79,3
+681,Laki - Laki,158,49,2
+682,Perempuan,168,92,4
+683,Laki - Laki,183,56,1
+684,Laki - Laki,172,58,2
+685,Perempuan,175,80,3
+686,Perempuan,173,66,2
+687,Perempuan,161,75,3
+688,Perempuan,164,38,1
+689,Laki - Laki,173,74,2
+690,Perempuan,178,73,2
+691,Perempuan,181,62,2
+692,Perempuan,161,39,1
+693,Laki - Laki,174,67,2
+694,Laki - Laki,182,69,2
+695,Perempuan,160,64,3
+696,Laki - Laki,185,42,1
+697,Perempuan,186,94,3
+698,Laki - Laki,196,60,1
+699,Laki - Laki,172,67,2
+700,Laki - Laki,172,34,1
+701,Laki - Laki,178,94,3
+702,Perempuan,178,63,2
+703,Perempuan,181,71,2
+704,Perempuan,178,87,3
+705,Laki - Laki,169,60,2
+706,Perempuan,182,84,3
+707,Perempuan,159,39,1
+708,Perempuan,170,78,3
+709,Laki - Laki,186,94,3
+710,Laki - Laki,157,61,2
+711,Laki - Laki,163,87,4
+712,Perempuan,177,98,4
+713,Perempuan,174,66,2
+714,Perempuan,161,65,2
+715,Laki - Laki,166,57,2
+716,Laki - Laki,158,62,2
+717,Perempuan,180,58,1
+718,Laki - Laki,167,57,2
+719,Laki - Laki,188,88,2
+720,Laki - Laki,171,58,2
+721,Laki - Laki,168,74,3
+722,Perempuan,167,71,3
+723,Laki - Laki,168,92,4
+724,Laki - Laki,171,62,2
+725,Laki - Laki,195,76,2
+726,Laki - Laki,167,82,3
+727,Perempuan,167,92,4
+728,Perempuan,171,62,2
+729,Laki - Laki,181,61,2
+730,Laki - Laki,156,54,2
+731,Laki - Laki,175,104,4
+732,Laki - Laki,162,91,4
+733,Laki - Laki,176,69,2
+734,Laki - Laki,165,99,4
+735,Perempuan,147,68,4
+736,Laki - Laki,174,81,3
+737,Perempuan,174,70,2
+738,Perempuan,164,76,3
+739,Laki - Laki,164,74,3
+740,Perempuan,157,64,3
+741,Perempuan,178,86,3
+742,Perempuan,179,81,3
+743,Perempuan,161,85,4
+744,Perempuan,165,75,3
+745,Perempuan,169,56,2
+746,Laki - Laki,193,96,3
+747,Perempuan,175,66,2
+748,Perempuan,161,75,3
+749,Perempuan,173,80,3
+750,Laki - Laki,156,75,4
+751,Perempuan,177,84,3
+752,Laki - Laki,187,86,2
+753,Perempuan,187,67,2
+754,Laki - Laki,177,94,4
+755,Laki - Laki,164,66,2
+756,Perempuan,157,75,4
+757,Perempuan,156,64,3
+758,Laki - Laki,142,60,3
+759,Perempuan,177,86,3
+760,Laki - Laki,169,117,4
+761,Laki - Laki,179,65,2
+762,Laki - Laki,184,88,3
+763,Laki - Laki,171,65,2
+764,Laki - Laki,171,70,2
+765,Perempuan,165,96,4
+766,Laki - Laki,167,54,2
+767,Laki - Laki,177,50,1
+768,Perempuan,168,69,2
+769,Laki - Laki,167,80,3
+770,Perempuan,170,77,3
+771,Perempuan,179,75,2
+772,Perempuan,163,71,3
+773,Laki - Laki,169,82,3
+774,Laki - Laki,172,26,1
+775,Laki - Laki,182,59,1
+776,Perempuan,168,69,2
+777,Laki - Laki,163,81,4
+778,Perempuan,165,92,4
+779,Laki - Laki,181,57,1
+780,Perempuan,190,92,3
+781,Laki - Laki,157,63,3
+782,Laki - Laki,159,68,3
+783,Laki - Laki,168,79,3
+784,Perempuan,171,67,2
+785,Perempuan,178,87,3
+786,Laki - Laki,161,64,2
+787,Laki - Laki,159,64,3
+788,Perempuan,171,86,3
+789,Perempuan,167,59,2
+790,Perempuan,179,74,2
+791,Laki - Laki,175,45,1
+792,Perempuan,176,97,4
+793,Laki - Laki,169,88,4
+794,Perempuan,194,111,3
+795,Laki - Laki,162,90,4
+796,Perempuan,176,53,1
+797,Perempuan,157,80,4
+798,Perempuan,159,56,2
+799,Perempuan,164,94,4
+800,Perempuan,186,53,1
+801,Laki - Laki,173,53,1
+802,Perempuan,164,46,1
+803,Perempuan,174,63,2
+804,Perempuan,170,60,2
+805,Laki - Laki,165,51,2
+806,Perempuan,156,100,4
+807,Laki - Laki,184,78,2
+808,Perempuan,172,76,3
+809,Perempuan,192,94,3
+810,Laki - Laki,179,74,2
+811,Perempuan,176,59,2
+812,Laki - Laki,166,44,1
+813,Laki - Laki,159,58,2
+814,Perempuan,168,93,4
+815,Laki - Laki,159,51,2
+816,Perempuan,177,75,2
+817,Perempuan,186,86,2
+818,Laki - Laki,167,74,3
+819,Laki - Laki,179,76,2
+820,Laki - Laki,163,80,4
+821,Laki - Laki,167,76,3
+822,Perempuan,162,94,4
+823,Perempuan,149,54,2
+824,Laki - Laki,170,74,3
+825,Perempuan,171,43,1
+826,Perempuan,181,39,1
+827,Perempuan,178,69,2
+828,Perempuan,178,78,2
+829,Laki - Laki,160,94,4
+830,Laki - Laki,175,106,4
+831,Perempuan,186,90,3
+832,Laki - Laki,174,81,3
+833,Laki - Laki,188,72,2
+834,Laki - Laki,190,47,1
+835,Perempuan,167,68,2
+836,Perempuan,163,89,4
+837,Perempuan,162,83,4
+838,Laki - Laki,155,51,2
+839,Perempuan,165,79,3
+840,Perempuan,182,78,2
+841,Laki - Laki,148,75,4
+842,Perempuan,160,70,3
+843,Perempuan,169,80,3
+844,Laki - Laki,161,80,4
+845,Laki - Laki,165,60,2
+846,Laki - Laki,165,77,3
+847,Perempuan,167,67,2
+848,Perempuan,163,48,1
+849,Perempuan,162,62,2
+850,Laki - Laki,179,47,1
+851,Laki - Laki,180,85,3
+852,Perempuan,156,75,4
+853,Perempuan,142,65,4
+854,Laki - Laki,181,91,3
+855,Laki - Laki,158,71,3
+856,Laki - Laki,172,49,1
+857,Laki - Laki,154,63,3
+858,Perempuan,183,94,3
+859,Laki - Laki,195,60,1
+860,Perempuan,172,74,3
+861,Perempuan,169,81,3
+862,Perempuan,167,79,3
+863,Laki - Laki,178,107,4
+864,Laki - Laki,176,52,1
+865,Laki - Laki,180,54,1
+866,Laki - Laki,164,53,2
+867,Perempuan,173,66,2
+868,Laki - Laki,165,86,4
+869,Laki - Laki,159,55,2
+870,Perempuan,170,87,4
+871,Laki - Laki,161,71,3
+872,Perempuan,182,53,1
+873,Perempuan,161,44,1
+874,Perempuan,174,47,1
+875,Perempuan,164,60,2
+876,Perempuan,173,67,2
+877,Perempuan,165,90,4
+878,Perempuan,157,82,4
+879,Perempuan,175,57,2
+880,Laki - Laki,168,76,3
+881,Laki - Laki,173,95,4
+882,Laki - Laki,166,98,4
+883,Laki - Laki,157,65,3
+884,Perempuan,181,84,3
+885,Laki - Laki,177,91,3
+886,Perempuan,164,47,1
+887,Laki - Laki,171,62,2
+888,Laki - Laki,180,103,4
+889,Laki - Laki,165,65,2
+890,Perempuan,167,26,1
+891,Laki - Laki,172,68,2
+892,Perempuan,165,87,4
+893,Perempuan,179,70,2
+894,Laki - Laki,168,81,3
+895,Laki - Laki,162,84,4
+896,Laki - Laki,176,65,2
+897,Perempuan,159,62,2
+898,Laki - Laki,190,72,2
+899,Perempuan,186,73,2
+900,Perempuan,175,71,2
+901,Laki - Laki,174,71,2
+902,Laki - Laki,174,59,2
+903,Perempuan,165,81,3
+904,Perempuan,173,79,3
+905,Perempuan,161,50,2
+906,Laki - Laki,175,64,2
+907,Perempuan,179,71,2
+908,Laki - Laki,166,62,2
+909,Perempuan,164,80,3
+910,Perempuan,158,69,3
+911,Laki - Laki,185,73,2
+912,Perempuan,165,64,2
+913,Laki - Laki,168,40,1
+914,Laki - Laki,173,39,1
+915,Perempuan,173,79,3
+916,Laki - Laki,177,74,2
+917,Laki - Laki,166,77,3
+918,Perempuan,159,72,3
+919,Laki - Laki,157,73,3
+920,Laki - Laki,164,85,4
+921,Laki - Laki,160,77,3
+922,Perempuan,167,86,4
+923,Laki - Laki,183,73,2
+924,Perempuan,166,65,2
+925,Perempuan,166,73,3
+926,Laki - Laki,170,57,2
+927,Laki - Laki,166,64,2
+928,Laki - Laki,169,73,3
+929,Perempuan,175,72,2
+930,Laki - Laki,179,68,2
+931,Laki - Laki,180,49,1
+932,Laki - Laki,191,80,2
+933,Laki - Laki,176,83,3
+934,Laki - Laki,192,95,3
+935,Perempuan,162,77,3
+936,Perempuan,191,70,2
+937,Laki - Laki,166,55,2
+938,Laki - Laki,167,92,4
+939,Laki - Laki,169,74,3
+940,Laki - Laki,168,73,3
+941,Perempuan,171,66,2
+942,Laki - Laki,164,65,2
+943,Perempuan,178,80,3
+944,Perempuan,164,55,2
+945,Laki - Laki,177,94,4
+946,Perempuan,185,91,3
+947,Perempuan,166,65,2
+948,Perempuan,178,57,1
+949,Perempuan,176,40,1
+950,Laki - Laki,193,51,1
+951,Laki - Laki,165,81,3
+952,Perempuan,178,75,2
+953,Laki - Laki,154,77,4
+954,Laki - Laki,165,42,1
+955,Laki - Laki,174,64,2
+956,Laki - Laki,184,91,3
+957,Laki - Laki,158,69,3
+958,Perempuan,178,51,1
+959,Laki - Laki,169,68,2
+960,Laki - Laki,155,58,2
+961,Laki - Laki,172,75,3
+962,Laki - Laki,187,70,2
+963,Perempuan,159,78,4
+964,Perempuan,169,52,1
+965,Perempuan,160,63,2
+966,Perempuan,165,86,4
+967,Laki - Laki,184,50,1
+968,Perempuan,167,55,2
+969,Laki - Laki,184,73,2
+970,Laki - Laki,181,74,2
+971,Laki - Laki,166,63,2
+972,Laki - Laki,165,66,2
+973,Laki - Laki,161,78,4
+974,Perempuan,161,83,4
+975,Perempuan,174,54,1
+976,Perempuan,170,75,3
+977,Perempuan,164,93,4
+978,Laki - Laki,155,68,3
+979,Perempuan,171,54,1
+980,Laki - Laki,165,53,2
+981,Perempuan,168,68,2
+982,Laki - Laki,173,86,3
+983,Laki - Laki,145,69,4
+984,Perempuan,155,73,4
+985,Laki - Laki,193,55,1
+986,Laki - Laki,165,85,4
+987,Perempuan,145,53,3
+988,Laki - Laki,156,62,3
+989,Perempuan,195,79,2
+990,Perempuan,163,39,1
+991,Perempuan,182,73,2
+992,Laki - Laki,171,54,2
+993,Laki - Laki,165,70,3
+994,Laki - Laki,178,65,2
+995,Perempuan,146,102,4
+996,Laki - Laki,156,64,3
+997,Perempuan,165,98,4
+998,Perempuan,157,79,4
+999,Laki - Laki,164,58,2
+1000,Perempuan,179,75,2
